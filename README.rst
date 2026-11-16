@@ -1,42 +1,36 @@
-=====
-euler
-=====
+GEOMETOR • euler
+================
 
-the Swiss mathematician whose 1765 memoir discovered the Euler line connecting the orthocenter, centroid, and circumcenter of every triangle
+**Visit the Online Archive:** https://geometor.github.io/euler/
 
-Edition Overview
-----------------
+**Leonhard Euler • Solutio facilis problematum geometricorum (E325) • semantic digital archive**
 
-- **Treatise**: *Solutio facilis problematum quorumdam geometricorum difficillimorum*
-- **Author**: Leonhard Euler
-- **Primary Edition Track**: ``docsrc/solutio_facilis_1765/`` (``:layout: book``)
-- **Apparatus**: ``resources/persons.json``, ``resources/citations.json``, ``resources/glossary.json``
-Installation & Verification
----------------------------
-
-Managed with ``uv`` on Python 3.13:
-
-.. code-block:: bash
-
-   uv run --no-sync pytest
-   ruff check src tests demos
-   publish build
-
-Usage
------
-
-.. code-block:: bash
-
-   euler --help
-
-Links
------
-
-- **Documentation**: https://geometor.github.io/euler
-- **Repository**: https://github.com/geometor/euler
-- **Issues**: https://github.com/geometor/euler/issues
-
-License
+Mission
 -------
 
-Licensed under the MIT License. See ``LICENSE`` for details.
+``geometor/euler`` is part of the interconnected `GEOMETOR <https://geometor.com>`_ semantic digital archive. It liberates Leonhard Euler's landmark 1765 memoir *Solutio facilis problematum quorumdam geometricorum difficillimorum* (Eneström E325) from isolated print bounds into addressable semantic units, calibrated theme-adaptive vector diagrams, primary-source folio provenance, and exact symbolic proofs establishing the Euler line across the GEOMETOR corpus.
+
+Books in This Archive
+---------------------
+
+- **`Solutio facilis problematum quorumdam geometricorum difficillimorum <https://geometor.github.io/euler/solutio_facilis_1765/>`_** — Euler's celebrated 1765 St. Petersburg memoir discovering the collinearity of the orthocenter :math:`H`, centroid :math:`G`, and circumcenter :math:`O`, and the distance invariant :math:`HG = 2GO`.
+
+Repository Contents
+-------------------
+
+- ``docsrc/`` — Book Codex tracks, apparatus registries, and Sphinx docs compiled by `PHOTON publish <https://github.com/photon-platform/publish>`_.
+- ``resources/`` — Primary folio scans, structure maps, persons/citations registries, and review manifests.
+- ``src/geometor/euler/`` — Symbolic geometry models, algebraic verification scripts, and apparatus compilation helpers.
+
+Local Build & Verification
+--------------------------
+
+.. code-block:: bash
+
+   publish build
+   uv run --no-sync pytest
+
+Part of the GEOMETOR Knowledge Archive
+--------------------------------------
+
+Explore all **74 Book Codices** and **11 Mathematical Catalogs** at https://geometor.com/books/.
