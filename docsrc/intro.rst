@@ -1,0 +1,1 @@
+The mission of this project is to capture a semantic digital library of the works of **Leonhard Euler** — the Swiss mathematician whose 1765 memoir discovered the Euler line connecting the orthocenter, centroid, and circumcenter of every triangle.
