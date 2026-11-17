@@ -20,6 +20,17 @@ Books in This Archive
 
 - `An Easy Solution of Certain Very Difficult Geometric Problems <https://geometor.github.io/euler/solutio_facilis_1765/>`_ — Euler's celebrated 1765 St. Petersburg memoir (*Solutio facilis problematum quorumdam geometricorum difficillimorum*) discovering the collinearity of the orthocenter :math:`H`, centroid :math:`G`, and circumcenter :math:`O`, and the distance invariant :math:`HG = 2GO`.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-euler`` Python package (``import geometor.euler``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``euler.py`` — Symbolic proofs and Euclidean construction for Euler's 1765 memoir (E325) and Feuerbach (1822).
+- ``primitives.py`` — Euclidean compass-and-straightedge sub-constructions for triangle geometry.
+- ``app.py`` — Command-line interface for ``geometor.euler``.
+
+See the `API Reference <https://geometor.github.io/euler/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
