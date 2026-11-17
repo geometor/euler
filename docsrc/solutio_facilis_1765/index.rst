@@ -1,28 +1,31 @@
 :navigation: header
 :order: 1
 :type: book
-:nav_title: Solutio Facilis (1765)
-:breadcrumb_title: Solutio Facilis
+:title: An Easy Solution of Certain Very Difficult Geometric Problems
+:nav_title: Easy Solution
+:breadcrumb_title: Easy Solution
 :layout: book
-:book_title: Solutio facilis problematum quorumdam geometricorum difficillimorum
+:book_title: An Easy Solution of Certain Very Difficult Geometric Problems
+:book_subtitle: Solutio facilis problematum quorumdam geometricorum difficillimorum (1765)
 :author: Leonhard Euler
 :year: 1765
+:tracks: English: index | Latin: title-la
 :excerpt: Euler's 1765 St. Petersburg memoir discovering the Euler line connecting the orthocenter, centroid, and circumcenter of every triangle, deriving the six mutual quadrances among the four classical triangle centers, and solving the inverse reconstruction problem via symmetric polynomials.
 
 .. _solutio_facilis_1765-index:
 .. _euler-1765-index:
 
-Solutio facilis problematum quorumdam geometricorum difficillimorum
-===================================================================
+An Easy Solution of Certain Very Difficult Geometric Problems
+=============================================================
 
-.. rubric:: *An Easy Solution of Certain Very Difficult Geometric Problems* — :person:`Leonhard Euler <euler>` (Eneström **E325**)
+.. rubric:: *Solutio facilis problematum quorumdam geometricorum difficillimorum* — :person:`Leonhard Euler <euler>` (1765, Eneström **E325**)
 
 .. container:: title-page
 
    | **Author:** :person:`Leonhard Euler <euler>`
-   | **First Edition (Latina, 1767):** *Novi Commentarii Academiae Scientiarum Imperialis Petropolitanae*, Tom. XI pro Anno MDCCLXV, Petropoli: Typis Academiae Scientiarum, MDCCLXVII, pp. 103–123, Tab. II Fig. 1–9 (*Opera Omnia*, Ser. I, Vol. 26, pp. 139–157).
+   | **First Edition (Latin, 1767):** *Novi Commentarii Academiae Scientiarum Imperialis Petropolitanae*, Tom. XI pro Anno MDCCLXV, Petropoli: Typis Academiae Scientiarum, MDCCLXVII, pp. 103–123, Tab. II Fig. 1–9 (*Opera Omnia*, Ser. I, Vol. 26, pp. 139–157).
    | **English Translation:** Original folio-verified translation curated for the GEOMETOR Digital Scriptorium.
-   | **Synchronized 4-Track Codex:** *English · Latina (1767) · Summary · Notes*, paired with exact symbolic verification in :mod:`geometor.euler`.
+   | **Synchronized 4-Track Codex:** *English · Latin · Summary · Notes*, paired with exact symbolic verification in :mod:`geometor.euler`.
 
 .. epigraph::
 
@@ -42,22 +45,22 @@ Table of Contents
 .. container:: toc-outline
 
    - **§§ 1–9 — The Four Classical Triangle Centers & Orthogonal Coordinates** *(pp. 103–107)*
-     (:ref:`English <euler-01-en>` · :ref:`Latina <euler-01-la>` · :ref:`Summary <euler-01-summary>` · :ref:`Notes <euler-01-notes>`)
+     (:ref:`English <euler-01-en>` · :ref:`Latin <euler-01-la>` · :ref:`Summary <euler-01-summary>` · :ref:`Notes <euler-01-notes>`)
 
      Enumeration of the four classical concurrency centers :math:`E = X(4)` (orthocenter), :math:`F = X(2)` (centroid), :math:`G = X(1)` (incenter), and :math:`H = X(3)` (circumcenter), formulation of the inverse determination problem, and derivation of their rational orthogonal coordinates on base :math:`AB = c`.
 
    - **§§ 10–18 — Symmetric Polynomials, Six Mutual Quadrances & The Euler Line** *(pp. 107–114)*
-     (:ref:`English <euler-02-en>` · :ref:`Latina <euler-02-la>` · :ref:`Summary <euler-02-summary>` · :ref:`Notes <euler-02-notes>`)
+     (:ref:`English <euler-02-en>` · :ref:`Latin <euler-02-la>` · :ref:`Summary <euler-02-summary>` · :ref:`Notes <euler-02-notes>`)
 
      Change of variables to the :term:`elementary symmetric polynomials <symmetric-polynomials>` :math:`p = a+b+c`, :math:`q = ab+ac+bc`, :math:`r = abc`, symmetric Heron expansion :math:`16A^2 = -p^4 + 4p^2q - 8pr`, closed-form derivation of all six squared inter-center distances (Formulas I–VI), discovery of the :term:`Euler Line <euler-line>` (:math:`FH = \tfrac{1}{2}EF`, :math:`EH = \tfrac{3}{2}EF`), and the compatibility law :math:`4GH^2 + 2EG^2 = 3EF^2 + 6FG^2`.
 
    - **§§ 19–24 — The Inverse Reconstruction Problem & Side-Length Cubic** *(pp. 114–118)*
-     (:ref:`English <euler-03-en>` · :ref:`Latina <euler-03-la>` · :ref:`Summary <euler-03-summary>` · :ref:`Notes <euler-03-notes>`)
+     (:ref:`English <euler-03-en>` · :ref:`Latin <euler-03-la>` · :ref:`Summary <euler-03-summary>` · :ref:`Notes <euler-03-notes>`)
 
      Reduction of the inverse problem (“given the four centers :math:`E, F, G, H`, construct the triangle”) to auxiliary invariants :math:`P = p^2`, :math:`Q = r/p`, :math:`R = r^2/(4A^2)`, exact cancellation of the quadratic term :math:`Q^2` yielding rational :math:`(P, q, Q)`, Viète's cubic :math:`z^3 - pz^2 + qz - r = 0`, and the integer benchmark :math:`(5, 6, 7) \implies z^3 - 18z^2 + 107z - 210 = 0`.
 
    - **§§ 25–34 — Collinear Centers, Isosceles Degeneracy & Casus Irreducibilis** *(pp. 118–123)*
-     (:ref:`English <euler-04-en>` · :ref:`Latina <euler-04-la>` · :ref:`Summary <euler-04-summary>` · :ref:`Notes <euler-04-notes>`)
+     (:ref:`English <euler-04-en>` · :ref:`Latin <euler-04-la>` · :ref:`Summary <euler-04-summary>` · :ref:`Notes <euler-04-notes>`)
 
      Analysis of the degenerate case in which :math:`G` lies on the Euler line :math:`EH` (forcing an isosceles triangle with rational root :math:`z = c`), the four positional regimes relative to midpoint :math:`I`, symmetric parameterization by :math:`(e, f, k) = (EG, GH, EH)`, reality *diorismos* inequalities, and angle trisection in the :term:`casus irreducibilis <casus-irreducibilis>`.
 
@@ -82,7 +85,7 @@ Scholarly Apparatus
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: First Latin Edition (1767)
+   :caption: Latin Edition
 
    01-four-centers-la
    02-six-distances-euler-line-la
@@ -102,3 +105,10 @@ Scholarly Apparatus
    03-reconstruction-cubic-notes
    04-collinear-isosceles-casus-summary
    04-collinear-isosceles-casus-notes
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-la

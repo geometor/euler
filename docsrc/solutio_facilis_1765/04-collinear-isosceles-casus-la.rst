@@ -1,5 +1,5 @@
 :title: Euler (1765) §§ 25–34 — Latina (1767)
-:track_label: Latina (1767)
+:track_label: Latin
 :layout: book
 
 .. _euler-04-la:

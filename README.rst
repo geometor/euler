@@ -3,6 +3,11 @@ GEOMETOR • euler
 
 **Visit the Online Archive:** https://geometor.github.io/euler/
 
+.. image:: docsrc/_static/constructions/euler_1765_centers.svg
+   :alt: GEOMETOR • euler featured geometric construction
+   :target: https://geometor.github.io/euler/
+   :align: center
+
 **Leonhard Euler • Solutio facilis problematum geometricorum (E325) • semantic digital archive**
 
 Mission
@@ -13,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`Solutio facilis problematum quorumdam geometricorum difficillimorum <https://geometor.github.io/euler/solutio_facilis_1765/>`_** — Euler's celebrated 1765 St. Petersburg memoir discovering the collinearity of the orthocenter :math:`H`, centroid :math:`G`, and circumcenter :math:`O`, and the distance invariant :math:`HG = 2GO`.
+- **`An Easy Solution of Certain Very Difficult Geometric Problems <https://geometor.github.io/euler/solutio_facilis_1765/>`_** — Euler's celebrated 1765 St. Petersburg memoir (*Solutio facilis problematum quorumdam geometricorum difficillimorum*) discovering the collinearity of the orthocenter :math:`H`, centroid :math:`G`, and circumcenter :math:`O`, and the distance invariant :math:`HG = 2GO`.
 
 Repository Contents
 -------------------
