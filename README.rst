@@ -18,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`An Easy Solution of Certain Very Difficult Geometric Problems <https://geometor.github.io/euler/solutio_facilis_1765/>`_** — Euler's celebrated 1765 St. Petersburg memoir (*Solutio facilis problematum quorumdam geometricorum difficillimorum*) discovering the collinearity of the orthocenter :math:`H`, centroid :math:`G`, and circumcenter :math:`O`, and the distance invariant :math:`HG = 2GO`.
+- `An Easy Solution of Certain Very Difficult Geometric Problems <https://geometor.github.io/euler/solutio_facilis_1765/>`_ — Euler's celebrated 1765 St. Petersburg memoir (*Solutio facilis problematum quorumdam geometricorum difficillimorum*) discovering the collinearity of the orthocenter :math:`H`, centroid :math:`G`, and circumcenter :math:`O`, and the distance invariant :math:`HG = 2GO`.
 
 Repository Contents
 -------------------
