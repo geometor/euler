@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • euler Medallion
+   :target: https://geometor.github.io/euler/
+   :width: 150px
+   :align: right
+
 GEOMETOR • euler
 ================
 
 **Visit the Online Archive:** https://geometor.github.io/euler/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • euler Medallion
-   :target: https://geometor.github.io/euler/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/_static/constructions/euler_1765_centers.svg
    :alt: GEOMETOR • euler featured geometric construction
