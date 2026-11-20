@@ -10,10 +10,75 @@ Leonhard Euler
    :alt: Leonhard Euler Medallion
    :class: repo-medallion-hero
 
-The works of :person:`Leonhard Euler <euler>` (1707–1783) revolutionized mathematical analysis and triangle geometry, culminating in his 1765 memoir discovering the collinear Euler line connecting the orthocenter, centroid, and circumcenter. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, this foundational paper (E325) is liberated from static print bounds—decomposed into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and cross-corpus citations speaking one shared geometric language.
+**Leonhard Euler** (1707–1783) set out in 1765 to solve a deceptively hard inverse problem: given only the four classical centers of a triangle—orthocenter, centroid, incenter, and circumcenter—can you reconstruct the triangle itself? Along the way to the side-length cubic, Euler uncovered one of geometry's most celebrated surprises: three of those centers ($H, G, O$) always lie on a single straight line, locked forever in the exact ratio $HG = 2GO$.
 
-.. reference-directory::
-   :sort: order
+Books in This Collection
+------------------------
+
+.. container:: home-book-hero
+
+   .. container:: home-book-thumb
+
+      .. image:: _static/constructions/euler_1765_centers.svg
+         :alt: Leonhard Euler 1765 four classical triangle centers and the Euler Line
+         :target: solutio_facilis_1765/index.html
+
+   .. container:: home-book-body
+
+      .. rubric:: St. Petersburg Academy Memoir (E325) · 1765 / 1767 · 4 Parts · 4 Synchronized Tracks
+
+      **An Easy Solution of Certain Very Difficult Geometric Problems** (*Solutio facilis problematum quorumdam geometricorum difficillimorum*) — Euler's complete 34-section St. Petersburg memoir across **English · Latin · Summary · Notes**, tracing orthogonal center coordinates, all six mutual inter-center quadrances, the discovery of the Euler line, and Viète's inverse cubic.
+
+      .. container:: home-actions
+
+         * :doc:`Open Solutio Facilis → <solutio_facilis_1765/index>`
+         * :doc:`§§ 1–9: Four Triangle Centers → <solutio_facilis_1765/01-four-centers-en>`
+         * :doc:`§§ 10–18: The Euler Line → <solutio_facilis_1765/02-six-distances-euler-line-en>`
+         * :doc:`Symbolic Demos → <demos/index>`
+
+Key Features
+------------
+
+.. container:: home-feature-grid
+
+   .. container:: home-feature-card
+
+      **Collinearity & Six Mutual Quadrances**
+
+      Follow Euler's symmetric-polynomial change of variables ($p, q, r$) yielding closed-form squared distances among $E, F, G, H$ and the fundamental ratio $EH = \tfrac{3}{2}EF$.
+
+   .. container:: home-feature-card
+
+      **Inverse Triangle Reconstruction**
+
+      Trace how Euler collapses the 4-center inverse problem into Viète's cubic $z^3 - pz^2 + qz - r = 0$ and resolves the isosceles *casus irreducibilis* regime.
+
+   .. container:: home-feature-card
+
+      **Exact Symbolic ``geometor.euler`` Engine**
+
+      Verify Euler's rational orthogonal formulas, six mutual quadrances, and integer benchmark $(5, 6, 7)$ in pure exact SymPy algebra with zero floating-point drift.
+
+Reference & Project
+-------------------
+
+.. container:: home-columns
+
+   .. container:: home-col
+
+      .. rubric:: Scholarly Apparatus
+
+      * :doc:`People <people/index>` — Biographical profiles of Leonhard Euler and historical interlocutors
+      * :doc:`Bibliography <bibliography>` — *Novi Commentarii* (1767), *Opera Omnia* Vol. 26, and Eneström E325 sources
+      * :doc:`Glossary <glossary>` — Key definitions of symmetric polynomials, Euler line, and *casus irreducibilis*
+
+   .. container:: home-col
+
+      .. rubric:: About This Project
+
+      * :doc:`About <about/index>` — Editorial methodology, exact symbolic grounding, and provenance
+      * :doc:`Using This Edition <usage/index>` — Track switching, cross-references, and navigation guide
+      * :doc:`Log <log/index>` & :doc:`Modules <modules/index>` — Development journal and Python API reference
 
 .. toctree::
    :maxdepth: 2
