@@ -5,7 +5,7 @@ authors = [
   { name = "phiarchitect", email = "github@geometor.com" },
 ]
 description = "the Swiss mathematician whose 1765 memoir discovered the Euler line connecting the orthocenter, centroid, and circumcenter of every triangle"
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.13"
 license = { file = "LICENSE" }
 classifiers = [
