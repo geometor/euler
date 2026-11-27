@@ -10,7 +10,7 @@ Leonhard Euler
    :alt: Leonhard Euler Medallion
    :class: repo-medallion-hero
 
-**Leonhard Euler** (1707–1783) set out in 1765 to solve a deceptively hard inverse problem: given only the four classical centers of a triangle—orthocenter, centroid, incenter, and circumcenter—can you reconstruct the triangle itself? Along the way to the side-length cubic, Euler uncovered one of geometry's most celebrated surprises: three of those centers ($H, G, O$) always lie on a single straight line, locked forever in the exact ratio $HG = 2GO$.
+**Leonhard Euler** (1707–1783) set out in 1765 to solve a deceptively hard inverse problem: given only the four classical centers of a triangle—orthocenter, centroid, incenter, and circumcenter—can you reconstruct the triangle itself? Along the way to the side-length cubic, Euler uncovered one of geometry's most celebrated surprises: three of those centers (:math:`H, G, O`) always lie on a single straight line, locked forever in the exact ratio :math:`HG = 2GO`.
 
 Books in This Collection
 ------------------------
@@ -45,19 +45,19 @@ Key Features
 
       **Collinearity & Six Mutual Quadrances**
 
-      Follow Euler's symmetric-polynomial change of variables ($p, q, r$) yielding closed-form squared distances among $E, F, G, H$ and the fundamental ratio $EH = \tfrac{3}{2}EF$.
+      Follow Euler's symmetric-polynomial change of variables (:math:`p, q, r`) yielding closed-form squared distances among :math:`E, F, G, H` and the fundamental ratio :math:`EH = \tfrac{3}{2}EF`.
 
    .. container:: home-feature-card
 
       **Inverse Triangle Reconstruction**
 
-      Trace how Euler collapses the 4-center inverse problem into Viète's cubic $z^3 - pz^2 + qz - r = 0$ and resolves the isosceles *casus irreducibilis* regime.
+      Trace how Euler collapses the 4-center inverse problem into Viète's cubic :math:`z^3 - pz^2 + qz - r = 0` and resolves the isosceles *casus irreducibilis* regime.
 
    .. container:: home-feature-card
 
       **Exact Symbolic ``geometor.euler`` Engine**
 
-      Verify Euler's rational orthogonal formulas, six mutual quadrances, and integer benchmark $(5, 6, 7)$ in pure exact SymPy algebra with zero floating-point drift.
+      Verify Euler's rational orthogonal formulas, six mutual quadrances, and integer benchmark :math:`(5, 6, 7)` in pure exact SymPy algebra with zero floating-point drift.
 
 Reference & Project
 -------------------
