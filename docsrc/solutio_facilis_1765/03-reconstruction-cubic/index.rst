@@ -1,3 +1,4 @@
+:order: 3
 :title: Euler (1765) §§ 19–24 — Inverse Reconstruction Problem & Side-Length Cubic
 :layout: book
 

@@ -1,3 +1,4 @@
+:order: 4
 :title: Euler (1765) §§ 25–34 — Collinear Centers, Isosceles Degeneracy & Casus Irreducibilis
 :layout: book
 

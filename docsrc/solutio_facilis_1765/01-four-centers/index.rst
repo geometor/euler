@@ -1,3 +1,4 @@
+:order: 1
 :title: Euler (1765) §§ 1–9 — The Four Classical Centers & Orthogonal Coordinates
 :layout: book
 

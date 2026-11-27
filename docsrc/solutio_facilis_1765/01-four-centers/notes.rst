@@ -1,3 +1,4 @@
+:type: notes
 :title: Euler (1765) §§ 1–9 — Critical & Symbolic Notes
 :layout: book
 

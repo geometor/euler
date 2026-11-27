@@ -32,8 +32,8 @@ Books in This Collection
       .. container:: home-actions
 
          * :doc:`Open Solutio Facilis → <solutio_facilis_1765/index>`
-         * :doc:`§§ 1–9: Four Triangle Centers → <solutio_facilis_1765/01-four-centers-en>`
-         * :doc:`§§ 10–18: The Euler Line → <solutio_facilis_1765/02-six-distances-euler-line-en>`
+         * :doc:`§§ 1–9: Four Triangle Centers → <solutio_facilis_1765/01-four-centers/index>`
+         * :doc:`§§ 10–18: The Euler Line → <solutio_facilis_1765/02-six-distances-euler-line/index>`
          * :doc:`Symbolic Demos → <demos/index>`
 
 Key Features

@@ -1,3 +1,4 @@
+:type: summary
 :title: Euler (1765) §§ 1–9 — Summary
 :layout: book
 

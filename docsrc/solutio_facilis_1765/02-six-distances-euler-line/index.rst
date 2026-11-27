@@ -1,3 +1,4 @@
+:order: 2
 :title: Euler (1765) §§ 10–18 — Symmetric Polynomials, Six Quadrances & The Euler Line
 :layout: book
 

@@ -1,3 +1,4 @@
+:type: la
 :title: Euler (1765) §§ 19–24 — Latina (1767)
 :track_label: Latin
 :layout: book

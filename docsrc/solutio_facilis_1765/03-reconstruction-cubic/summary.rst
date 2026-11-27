@@ -1,3 +1,4 @@
+:type: summary
 :title: Euler (1765) §§ 19–24 — Summary
 :layout: book
 
