@@ -70,42 +70,6 @@ Table of Contents
 .. collection::
    :sort: order
 
-Scholarly Apparatus
--------------------
-
-.. toctree::
-   :maxdepth: 1
-   :caption: English Translation
-
-   01-four-centers-en
-   02-six-distances-euler-line-en
-   03-reconstruction-cubic-en
-   04-collinear-isosceles-casus-en
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Latin Edition
-
-   01-four-centers-la
-   02-six-distances-euler-line-la
-   03-reconstruction-cubic-la
-   04-collinear-isosceles-casus-la
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Summaries & Critical Notes
-
-   01-four-centers-summary
-   01-four-centers-notes
-   02-six-distances-euler-line-summary
-   02-six-distances-euler-line-notes
-   03-reconstruction-cubic-summary
-   03-reconstruction-cubic-notes
-   04-collinear-isosceles-casus-summary
-   04-collinear-isosceles-casus-notes
-
 .. toctree::
    :maxdepth: 1
    :hidden:
